@@ -27,5 +27,6 @@
 	</dependencies>
 	<modules>
 		<module>ex1-getting-started</module>
+		<module>ex2-spring-data-core</module>
 	</modules>
 </project>
