@@ -25,4 +25,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<modules>
+		<module>ex1-getting-started</module>
+	</modules>
 </project>
